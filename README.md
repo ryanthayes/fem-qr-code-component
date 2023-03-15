@@ -23,8 +23,8 @@ I also wanted to practice the github workflow and using CSS Custom Properties.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ryanthayes/qr-code-component-main)
+- Live Site URL:(https://ryanthayes.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -38,5 +38,5 @@ I began by creating a repo on github and creating the necessary files from the c
 
 ## Author
 
-- Github - [@ryanthayes](https://github.com/ryanthayes)
-- Frontend Mentor - [@ryanthayes](https://www.frontendmentor.io/profile/ryanthayes)
+- Github - (https://github.com/ryanthayes)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/ryanthayes)
